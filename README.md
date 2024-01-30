@@ -1,6 +1,6 @@
 # 👋 Hey, I'm CuB1!
 
-I'm a Software Engineering student from Spain 🇪🇸. I'm passionate about technology and love learning new things!
+I'm a Software Engineering Student from Spain. I'm passionate about technology and love learning new things!
 
 ## 🎓 Education
 
