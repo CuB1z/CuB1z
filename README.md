@@ -18,7 +18,7 @@ I'm always excited to learn new technologies. Here are some I've been working wi
 | Python                | Beginner         |
 | Java                  | Intermediate     |
 
-## 🌱 I’m currently learning
+## 🌱 Currently learning
 
 I'm currently diving deeper into:
 
