@@ -3,25 +3,23 @@
 I'm a Software Engineering Student from Spain. I'm passionate about technology and love learning new things!
 
 ## 🎓 Education
-
-I'm currently studying Software Engineering at Rey Juan Carlos University.
+| Degree               | University | Time          |
+| -------------------- | ---------- | ------------- |
+| Software Engineering | URJC       | 2022 - Actual |
 
 ## 💻 Technologies
-
-I'm always excited to learn new technologies. Here are some I've been working with recently:
-
 | Language / Technology | Experience Level |
 | -------------------   | ---------------- |
-| JavaScript (ES6+)     | Intermediate     |
-| Node.js               | Intermediate     |
-| Astro                 | Beginner         |
-| Python                | Beginner         |
-| Java                  | Intermediate     |
+| JavaScript (ES6+)     | ⭐⭐⭐          |
+| Node.js               | ⭐⭐⭐          |
+| Astro                 | ⭐⭐⭐          |
+| React                 | ⭐⭐            |
+| Python                | ⭐⭐            |
+| Java                  | ⭐⭐⭐          |
+| Git                   | ⭐⭐⭐          |
+| GitHub                | ⭐⭐⭐⭐⭐     |
 
-## 🌱 Currently learning
-
-I'm currently diving deeper into:
-
+## 🌱 Currently Learning
 - Full Stack Development
 - Application Development with Java
 - Algorithms with Python
