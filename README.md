@@ -14,6 +14,7 @@ I'm a Software Engineering Student from Spain. I'm passionate about technology a
 | Node.js               | ⭐⭐⭐          |
 | Astro                 | ⭐⭐⭐          |
 | React                 | ⭐⭐⭐          |
+| NextJs                | ⭐⭐⭐          |
 | Python                | ⭐⭐⭐          |
 | Java                  | ⭐⭐⭐          |
 | Git                   | ⭐⭐⭐          |
