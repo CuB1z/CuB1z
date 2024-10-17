@@ -10,7 +10,7 @@ I'm a Software Engineering Student from Spain. I'm passionate about technology a
 ## 🌱 Currently Learning
 - Full Stack Development
 - Application Development with Java
-- Algorithms with Python
+- Linux and C programming
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cub1z/)
