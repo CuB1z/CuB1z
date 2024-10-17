@@ -13,11 +13,11 @@ I'm a Software Engineering Student from Spain. I'm passionate about technology a
 | JavaScript (ES6+)     | ⭐⭐⭐          |
 | Node.js               | ⭐⭐⭐          |
 | Astro                 | ⭐⭐⭐          |
-| React                 | ⭐⭐⭐          |
-| NextJs                | ⭐⭐⭐          |
+| React                 | ⭐⭐⭐⭐       |
+| NextJs                | ⭐⭐⭐⭐       |
 | Python                | ⭐⭐⭐          |
 | Java                  | ⭐⭐⭐          |
-| Git                   | ⭐⭐⭐          |
+| Git                   | ⭐⭐⭐⭐       |
 | GitHub                | ⭐⭐⭐⭐⭐     |
 
 ## 🌱 Currently Learning
