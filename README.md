@@ -7,23 +7,28 @@ I'm a Software Engineering Student from Spain. I'm passionate about technology a
 | -------------------- | ---------- | ------------- |
 | Software Engineering | URJC       | 2022 - Actual |
 
-## 💻 Technologies
-| Language / Technology | Experience Level |
-| -------------------   | ---------------- |
-| JavaScript (ES6+)     | ⭐⭐⭐          |
-| Node.js               | ⭐⭐⭐          |
-| Astro                 | ⭐⭐⭐          |
-| React                 | ⭐⭐⭐⭐       |
-| NextJs                | ⭐⭐⭐⭐       |
-| Python                | ⭐⭐⭐          |
-| Java                  | ⭐⭐⭐          |
-| Git                   | ⭐⭐⭐⭐       |
-| GitHub                | ⭐⭐⭐⭐⭐     |
-
 ## 🌱 Currently Learning
 - Full Stack Development
 - Application Development with Java
 - Algorithms with Python
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cub1z/)
+[![Site](https://img.shields.io/badge/CuB1_Zz-000?style=for-the-badge)](https://cub1z.vercel.app/)
+
+## 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📫 How to reach me
 
@@ -31,7 +36,8 @@ Feel free to reach out if you want to chat about technology, need help with some
 
 | Method          | Contact Info                               |
 | --------        | ------------------------------------------ |
-| 📧 Email        | cub1zdev@gmail.com |
+| 📧 Email        | cub1zdev@gmail.com  |
 | 💼 LinkedIn     | https://www.linkedin.com/in/cub1z/ |
+| 🌐 Website      | https://cub1z.vercel.app/ |
 
 ----
