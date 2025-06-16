@@ -1,6 +1,25 @@
-# 👋 Hey, I'm Diego!
 
-I'm a Software Engineering Student from Spain. I'm passionate about technology and love learning new things!
+<div align="center">
+  <img height="150" src="/assets/CuB1.png" />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/cub1z/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://cub1z.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/CuB1_Zz-000?style=for-the-badge" height="25" alt="CuB1_Zz logo" />
+  </a>
+</div>
+
+###
+
+<h1 align="center">👋 Hey, I'm Diego!</h1>
+<h6 align="center">A Software Engineer from Spain. I'm passionate about technology and love learning new things!</h6>
+
+###
 
 ## 🎓 Education
 | Degree               | University | Time          |
