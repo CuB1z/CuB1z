@@ -13,17 +13,17 @@ I'm a Software Engineering Student from Spain. I'm passionate about technology a
 - AI Concepts
 
 ## 👨‍💻 Projects
-<section style="display: flex; gap: 16px; flex-wrap: wrap; width: 100%; text-decoration: none; justify-content: center;">
-  <a href="https://github.com/CuB1z/NoteHub" target="_blank">
-    <img src="/assets/NoteHub.png" alt="NoteHub Badge" width="128" />
+<div align="center">
+  <a style="color: transparent;" href="https://github.com/CuB1z/NoteHub" target="_blank">
+    <img src="/assets/NoteHub.png" alt="NoteHub Badge" width="128" align="center" />
   </a>
-  <a href="https://github.com/CuB1z/SaveX" target="_blank">
-    <img src="/assets/SaveX.png" alt="SaveX Badge" width="128" />
+  <a style="color: transparent;" href="https://github.com/CuB1z/SaveX" target="_blank">
+    <img src="/assets/SaveX.png" alt="SaveX Badge" width="128" align="center" />
   </a>
-  <a href="https://github.com/PortiESP/bits-of-battle" target="_blank">
-    <img src="/assets/BitsOfBattle.png" alt="Bits of Battle Badge" width="128" />
+  <a style="color: transparent;" href="https://github.com/PortiESP/bits-of-battle" target="_blank">
+    <img src="/assets/BitsOfBattle.png" alt="Bits of Battle Badge" width="128" align="center" />
   </a>
-</section>
+</div>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cub1z/)
