@@ -12,6 +12,19 @@ I'm a Software Engineering Student from Spain. I'm passionate about technology a
 - Application Development with Java
 - AI Concepts
 
+## 👨‍💻 Projects
+<section style="display: flex; gap: 16px; flex-wrap: wrap; width: 100%;">
+  <a href="https://github.com/CuB1z/NoteHub" target="_blank">
+    <img src="/assets/NoteHub.png" alt="NoteHub Badge" width="32" />
+  </a>
+  <a href="https://github.com/CuB1z/SaveX" target="_blank">
+    <img src="/assets/SaveX.png" alt="SaveX Badge" width="32" />
+  </a>
+  <a href="https://github.com/PortiESP/bits-of-battle" target="_blank">
+    <img src="/assets/BitsOfBattle.png" alt="Bits of Battle Badge" width="32" />
+  </a>
+</section>
+
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cub1z/)
 [![Site](https://img.shields.io/badge/CuB1_Zz-000?style=for-the-badge)](https://cub1z.vercel.app/)
