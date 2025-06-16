@@ -52,27 +52,17 @@
 
 ### ​
 
-## 👨‍💻 Projects
+<h2 align="center">📫 How to reach me</h2>
+<p align="center">Feel free to reach out if you want to chat about technology, need help with something, or have a job opportunity.</p>
+
 <div align="center">
-  <a style="color: transparent;" href="https://github.com/CuB1z/NoteHub" target="_blank">
-    <img src="/assets/NoteHub.png" alt="NoteHub Badge" width="128" align="center" />
+  <a href="mailto:cub1zdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ab2e26?style=for-the-badge" height="25" alt="Email logo" />
   </a>
-  <a style="color: transparent;" href="https://github.com/CuB1z/SaveX" target="_blank">
-    <img src="/assets/SaveX.png" alt="SaveX Badge" width="128" align="center" />
+  <a href="https://www.linkedin.com/in/cub1z/" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge" height="25" alt="Linkedin logo" />
   </a>
-  <a style="color: transparent;" href="https://github.com/PortiESP/bits-of-battle" target="_blank">
-    <img src="/assets/BitsOfBattle.png" alt="Bits of Battle Badge" width="128" align="center" />
+  <a href="https://cub1z.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/CuB1_Zz-000?style=for-the-badge" height="25" alt="CuB1_Zz logo" />
   </a>
 </div>
-
-## 📫 How to reach me
-
-Feel free to reach out if you want to chat about technology, need help with something, or have a job opportunity:
-
-| Method          | Contact Info                               |
-| --------        | ------------------------------------------ |
-| 📧 Email        | cub1zdev@gmail.com  |
-| 💼 LinkedIn     | https://www.linkedin.com/in/cub1z/ |
-| 🌐 Website      | https://cub1z.vercel.app/ |
-
-----
